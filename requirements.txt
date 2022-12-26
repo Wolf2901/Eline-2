@@ -5,7 +5,7 @@ wget
 beautifulsoup4
 requests
 python-telegram-bot==12.8
-sqlalchemy==1.4.11
+sqlalchemy
 PyDictionary
 psycopg2-binary
 feedparser
