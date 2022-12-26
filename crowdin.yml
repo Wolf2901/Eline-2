@@ -1,0 +1,3 @@
+files:
+  - source: ElinaRobot/localization/en.yaml 
+    translation: /**/ElinaRobot/localization/%locale_with_underscore%.yaml
